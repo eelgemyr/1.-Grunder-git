@@ -11,6 +11,7 @@ namespace Hello_World_
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Det betyder \"Hej Världen\" på svenska");
         }
     }
 }
