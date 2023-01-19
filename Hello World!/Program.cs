@@ -11,8 +11,7 @@ namespace Hello_World_
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("The Weather looks nice today! Don't ya think?");
-            Console.ReadLine();
+            Console.WriteLine("The Weather looks nice today!");
             Console.WriteLine("Hej då!");
         }
     }
