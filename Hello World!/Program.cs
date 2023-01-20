@@ -11,6 +11,18 @@ namespace Hello_World_
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Now lets make you own solution to this.");
+        }
+
+        static string skylineConversion(string input)
+        {
+            string res = "";
+            /*
+             * solution
+             */
+
+
+            return res;
         }
     }
 }
